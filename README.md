@@ -1,15 +1,25 @@
 # 🐼 ToneShell APT Variant (Educational)
 
    .--.              .--.
+
  : (\ ". _......_ ." /) :
+
   '.    `        `    .'
+
    /'   _        _   `\
+
   /     0}      {0     \
+
  |       /      \       |
+
  |     /'        `\     |
+
   \   | .  .==.  . |   /
+
    '._ \.' \__/ './ _.'
+
    /  ``'._-''-_.'``  \
+   
 **`ToneShell // Operation: Panda Trigger`**  
 *A covert activation framework with claws 🐾*
 
