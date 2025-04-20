@@ -1,27 +1,19 @@
 # 🐼 ToneShell APT Variant (Educational)
-
+```bash
    .--.              .--.
-
  : (\ ". _......_ ." /) :
-
   '.    `        `    .'
-
    /'   _        _   `\
-
   /     0}      {0     \
-
  |       /      \       |
-
  |     /'        `\     |
-
   \   | .  .==.  . |   /
-
    '._ \.' \__/ './ _.'
-
    /  ``'._-''-_.'``  \
-   
+```
 **`ToneShell // Operation: Panda Trigger`**  
 *A covert activation framework with claws 🐾*
+
 
 > 🎧 A cyberpunk-inspired, tone-triggered, multi-stage in-memory shellcode framework built for research and education only.
 
